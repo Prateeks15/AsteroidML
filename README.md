@@ -10,3 +10,5 @@
  - Setup and creating Matrix Functions.
  - Creating a Neural Network
  - Automating the Ship 
+
+<a href="https://imgflip.com/gif/4d5qnw">via Imgflip</a></p></div>
