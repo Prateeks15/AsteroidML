@@ -1,6 +1,6 @@
 # AsteroidML
 
- ## A Complete asteroid game made with pure javascript.
+ ## A Complete asteroid shooting game made with pure javascript.
 
  ## Also beating asteroid game by automating the game with neural networks.
 
